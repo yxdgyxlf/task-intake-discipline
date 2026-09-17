@@ -1,5 +1,7 @@
 # 任务接收纪律（Task Intake Discipline）
 
+[English](README.en.md) | 中文
+
 面向 AI Agent 的「会话开局任务接收与开工前置」协议——以常驻注入（强加载）方式部署，任何任务开始前自动生效。单文件协议，无脚本、无依赖。
 
 > 核心主张：任务接收自有纪律——先静候、再判别、后开工；信息未齐不擅动，技能未检不开工。
@@ -44,8 +46,9 @@
 
 ```text
 task-intake-discipline/
-├── README.md    # 本文件
-├── SKILL.md     # 协议全文（投放用）
+├── README.md      # 本文件（中文）
+├── README.en.md   # English version
+├── SKILL.md       # 协议全文（投放用）
 └── LICENSE      # MIT
 ```
 
